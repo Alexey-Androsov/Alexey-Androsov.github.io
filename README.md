@@ -3,4 +3,4 @@
 
 Lending_Japan
 
-[lending](https://alexey-androsov.github.io/project/ "JAPAN")
+[Lending_travel_Japan](https://alexey-androsov.github.io/project/ "JAPAN")
